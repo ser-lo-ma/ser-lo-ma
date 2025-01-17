@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-[Go to Wiki Index](/wiki/)
