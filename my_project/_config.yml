@@ -37,3 +37,5 @@ collections:
   wiki:
     output: true
     permalink: /:collection/:path/
+include:
+  - _pages # contains the pages for the wiki
