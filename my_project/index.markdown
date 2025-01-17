@@ -4,5 +4,6 @@
 
 layout: home
 ---
-
+I am trying to establish how this works.
+If I am doing things correctly, the next thing should be a link
 [Go to Wiki Index](/wiki/)
